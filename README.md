@@ -61,6 +61,6 @@ I was born to create **efficient and scalable solutions** and I am guided by one
 ---
 
 <div align="center">
-  <img src="./assets/siamese-cat.png" width="100%" alt="My siamese cat and code vibes">
-  <p>🐈 💙</p>
+  <img src="./assets/siamese-cat.png" width="85%" alt="My cat and code vibes">
+  <p>🐈 💙</p> 
 </div>
