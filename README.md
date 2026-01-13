@@ -46,7 +46,7 @@ I was born to create **efficient and scalable solutions** and I am guided by one
 
 ---
 
-## 🤝 Let’s Connect
+## 📬  Let’s Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alebazi7/" target="_blank">
