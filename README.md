@@ -57,8 +57,6 @@ I was born to create **efficient and scalable solutions** and I am guided by one
   </a>
 </div>
 
----
-
 <div align="center">
   <img src="./assets/siamese-cat.png" width="85%" alt="My cat and code vibes">
   <p>🐈 💙</p> 
