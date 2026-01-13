@@ -31,8 +31,6 @@ I was born to create **efficient and scalable solutions** and I am guided by one
   <br><br>
 </div>
 
----
-
 ### 🧰 System & Tools
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
