@@ -21,10 +21,8 @@ I was born to create **efficient and scalable solutions** and I am guided by one
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 💻 Languages
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -32,9 +30,11 @@ I was born to create **efficient and scalable solutions** and I am guided by one
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br><br>
 </div>
-<br>
+
+---
+
 ### 🧰 System & Tools
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
