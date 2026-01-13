@@ -29,10 +29,6 @@ I was born to create **efficient and scalable solutions** and I am guided by one
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br><br>
-</div>
-
-<br>
-
 ### 🧰 System & Tools
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -45,14 +41,6 @@ I was born to create **efficient and scalable solutions** and I am guided by one
 ## 🏛️ Architecture & Engineering Principles
 
 `Clean Code` • `SOLID` • `Data-Driven Decisions` • `Automation First` • `ETL Pipelines`
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alebazsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alebazsi&layout=compact&theme=dracula"/>
-</div>
 
 ---
 
