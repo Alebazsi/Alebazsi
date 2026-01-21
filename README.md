@@ -15,7 +15,7 @@ I was born to create **efficient and scalable solutions** and I am guided by one
 
 - 🐍 **Favorite language:** Python  
 - 🐧 **OS:** Linux (Ubuntu)  
-- 🎯 **Focus:** Automation, Data Engineering & AI  
+- 🎯 **Focus:** Automation, DevOps & AI  
 
 ---
 
